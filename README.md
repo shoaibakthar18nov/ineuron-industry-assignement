@@ -1,2 +1,3 @@
-## this is the git tutorials by krish
+## this is the amazing git tutorials by krish
 ## we will learn git and github
+these changes are by developer2
