@@ -1,3 +1,3 @@
 ## this is the amazing git tutorials by krish
 ## we will learn git and github
-these changes are by developer2
+these changes are made by developer2
