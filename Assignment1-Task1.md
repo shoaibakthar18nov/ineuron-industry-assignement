@@ -74,13 +74,14 @@ this allows to use commands such as a git without any arguement and also fetch a
 
 ![git push -u origin main](https://user-images.githubusercontent.com/114742949/194288869-3287cdc1-d701-4995-9279-f7d14cfe7637.png)
 
+push all the files to main with respect to all things that been added and this is will goes to the github repository.
+
 13)git pull origin main
 
-![git pull origin main](https://user-images.githubusercontent.com/114742949/194293648-b1a50d53-cd7f-4f1d-8833-cfe3f4ad5f9b.png)
+![git pull origin main](https://user-images.githubusercontent.com/114742949/194294391-87f92767-b658-4d02-a61c-1c1e4e5db4f1.png)
 
-pull request for new file that is  assignment-1-task-1 file to add main 
+pull request for new file that is  assignment-1-task-1 file to add main
 
-push all the files to main with respect to all things that been added and this is will goes to the github repository.
 
 14)git push origin main
 
