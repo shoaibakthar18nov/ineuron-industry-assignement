@@ -62,4 +62,10 @@ this command checks the which branch we are in
 
 ![git remote add origin](https://user-images.githubusercontent.com/114742949/194287414-f45bd037-4140-433c-a1f4-271c5f25df71.png)
 
-this command is used to new remote, it use the git remote add command on the terminal in the dirctory our repository is stored at
+this command is used to new remote, it use the git remote add command on the terminal in the dirctory our repository is stored at.
+
+11)git remote -v
+
+![git remote -v](https://user-images.githubusercontent.com/114742949/194288166-a35f4b3c-121d-4349-9a24-b0a2d35d247b.png)
+
+this allows to use commands such as a git without any arguement and also fetch and push branch has setted.
