@@ -94,3 +94,9 @@ pushing all the files from the origin to main branch
 ![git branch develp1](https://user-images.githubusercontent.com/114742949/194294938-90cbc6b6-1946-4d36-a0d9-9705e418a101.png)
 
 creating new branch with name as developer1
+
+16)git checkout developer1
+
+![git checkout devep1](https://user-images.githubusercontent.com/114742949/194295287-8b9e2729-9e22-498b-8eaf-036828e104e7.png)
+
+switching main branch to developer1 branch
