@@ -111,4 +111,4 @@ this command lets takes the indepenedent lines of development created by git bra
 
 ![git log](https://user-images.githubusercontent.com/114742949/194299647-036361be-d35e-48c7-9380-d4bc72638bef.png)
 
-this command gives the how many commit are happened
+this command gives the how many commits are happened
