@@ -13,6 +13,10 @@ It can be used to convert an existing, unversioned project to a Git repository o
 
 3)git config --global user.name "shoaibakthar18nov"
 
-![git config username 1](https://user-images.githubusercontent.com/114742949/194275159-a67b9482-7863-4a8b-996d-15ae9b89ec2b.png)
+![git config username 3](https://user-images.githubusercontent.com/114742949/194276421-87ffd4e9-4eaa-4af9-a6ea-1a63b726031a.png)
+
 
 this command is to set our git username as shoaibakthar18nov firts time only
+
+4) git config --global user.email "shoaibakthar18nov@gmail.com"
+
