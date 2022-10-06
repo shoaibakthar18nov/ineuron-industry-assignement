@@ -39,6 +39,12 @@ this command is used to adding the file .the name of the new file which is added
 
 7)git add .
 
-![git add readme](https://user-images.githubusercontent.com/114742949/194280192-7b7a772a-4a74-4382-8168-52ebe6efcb14.png)
+![git add 2](https://user-images.githubusercontent.com/114742949/194281052-25b3d546-de68-4fae-9f6a-26b6303d8e83.png)
 
-this command is used to adding all the file and changes to be commited and tracking the files
+
+this command is used to adding all the file and changes to be commited and tracking the files.
+in this we can see two files are added
+
+
+8)git commit -m "this is my first commit"
+
