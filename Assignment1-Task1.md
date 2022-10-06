@@ -69,3 +69,9 @@ this command is used to new remote, it use the git remote add command on the ter
 ![git remote -v](https://user-images.githubusercontent.com/114742949/194288166-a35f4b3c-121d-4349-9a24-b0a2d35d247b.png)
 
 this allows to use commands such as a git without any arguement and also fetch and push branch has setted.
+
+12)git push -u origin main
+
+![git push -u origin main](https://user-images.githubusercontent.com/114742949/194288869-3287cdc1-d701-4995-9279-f7d14cfe7637.png)
+
+push all the files to main with respect to all things that been added and this is will goes to the github repository.
