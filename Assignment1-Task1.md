@@ -57,3 +57,9 @@ a shortcut command immediately creates a commit with a passed commit messages th
 ![git branch](https://user-images.githubusercontent.com/114742949/194285863-ccb728e6-be54-46cf-91e4-c292c4e0e1b1.png)
 
 this command checks the which branch we are in 
+
+10)git remote add origin https://github.com/shoaibakthar18nov/ineuron-industry-assignement1.git
+
+![git remote add origin](https://user-images.githubusercontent.com/114742949/194287414-f45bd037-4140-433c-a1f4-271c5f25df71.png)
+
+this command is used to new remote, it use the git remote add command on the terminal in the dirctory our repository is stored at
