@@ -20,3 +20,6 @@ this command is to set our git username as shoaibakthar18nov firts time only
 
 4) git config --global user.email "shoaibakthar18nov@gmail.com"
 
+![git config useremail2](https://user-images.githubusercontent.com/114742949/194276740-03d140a9-fb30-4a02-97b8-699f9c8c3d31.png)
+
+this command is to set our git useremail as shoaibakthar18nov@gmail.com firts time only
