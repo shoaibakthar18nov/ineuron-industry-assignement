@@ -88,3 +88,9 @@ pull request for new file that is  assignment-1-task-1 file to add main
 ![git push origin main](https://user-images.githubusercontent.com/114742949/194292090-b73fbae7-a8ab-415d-ad04-54c97a0f8ac6.png)
 
 pushing all the files from the origin to main branch
+
+15)git branch developer1
+
+![git branch develp1](https://user-images.githubusercontent.com/114742949/194294938-90cbc6b6-1946-4d36-a0d9-9705e418a101.png)
+
+creating new branch with name as developer1
