@@ -75,3 +75,9 @@ this allows to use commands such as a git without any arguement and also fetch a
 ![git push -u origin main](https://user-images.githubusercontent.com/114742949/194288869-3287cdc1-d701-4995-9279-f7d14cfe7637.png)
 
 push all the files to main with respect to all things that been added and this is will goes to the github repository.
+
+13)git push origin main
+
+![git push origin main](https://user-images.githubusercontent.com/114742949/194292090-b73fbae7-a8ab-415d-ad04-54c97a0f8ac6.png)
+
+pushing all the files from the origin to main branch
