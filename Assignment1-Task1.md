@@ -10,3 +10,9 @@ this command is used to check our current version of git
 
 the git init command creates a new repository 
 It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository
+
+3)git config --global user.name "shoaibakthar18nov"
+
+![git config username 1](https://user-images.githubusercontent.com/114742949/194275159-a67b9482-7863-4a8b-996d-15ae9b89ec2b.png)
+
+this command is to set our git username as shoaibakthar18nov firts time only
