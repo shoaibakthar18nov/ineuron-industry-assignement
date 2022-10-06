@@ -23,3 +23,16 @@ this command is to set our git username as shoaibakthar18nov firts time only
 ![git config useremail2](https://user-images.githubusercontent.com/114742949/194276740-03d140a9-fb30-4a02-97b8-699f9c8c3d31.png)
 
 this command is to set our git useremail as shoaibakthar18nov@gmail.com firts time only
+
+5)git status
+
+![git status](https://user-images.githubusercontent.com/114742949/194277242-69d28122-fe5b-4c71-8ffd-af9440281b14.png)
+
+this command displays the state of the working directory 
+and the staging area and also in this untracked files: it means the file README.md which is created but not tracking the file
+
+6)git add README.md
+
+![git add readme](https://user-images.githubusercontent.com/114742949/194278894-d152304d-f941-4334-b02b-1c3cf8f99de8.png)
+
+this command is used to adding the file .the name of the new file which is added is README.md
