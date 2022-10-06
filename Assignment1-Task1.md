@@ -36,3 +36,9 @@ and the staging area and also in this untracked files: it means the file README.
 ![git add readme](https://user-images.githubusercontent.com/114742949/194278894-d152304d-f941-4334-b02b-1c3cf8f99de8.png)
 
 this command is used to adding the file .the name of the new file which is added is README.md
+
+7)git add .
+
+![git add readme](https://user-images.githubusercontent.com/114742949/194280192-7b7a772a-4a74-4382-8168-52ebe6efcb14.png)
+
+this command is used to adding all the file and changes to be commited and tracking the files
