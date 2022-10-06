@@ -107,3 +107,8 @@ switching main branch to developer1 branch
 
 this command lets takes the indepenedent lines of development created by git branch and integrate them into a single branch
 
+18)git log
+
+![git log](https://user-images.githubusercontent.com/114742949/194299647-036361be-d35e-48c7-9380-d4bc72638bef.png)
+
+this command gives the how many commit are happened
