@@ -48,3 +48,7 @@ in this we can see two files are added
 
 8)git commit -m "this is my first commit"
 
+![git commit m](https://user-images.githubusercontent.com/114742949/194284712-669d4e20-cb5c-4305-8908-43e2fccf560c.png)
+
+a shortcut command immediately creates a commit with a passed commit messages that is 2 files changed,3 insertions
+
