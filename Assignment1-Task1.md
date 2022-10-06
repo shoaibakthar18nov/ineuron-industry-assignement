@@ -52,7 +52,7 @@ in this we can see two files are added
 
 a shortcut command immediately creates a commit with a passed commit messages that is 2 files changed,3 insertions
 
-9) git branch
+9)git branch
 
 ![git branch](https://user-images.githubusercontent.com/114742949/194285863-ccb728e6-be54-46cf-91e4-c292c4e0e1b1.png)
 
