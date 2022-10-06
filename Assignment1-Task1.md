@@ -100,3 +100,10 @@ creating new branch with name as developer1
 ![git checkout devep1](https://user-images.githubusercontent.com/114742949/194295287-8b9e2729-9e22-498b-8eaf-036828e104e7.png)
 
 switching main branch to developer1 branch
+
+17)git merge developer2
+
+![git merge deve2](https://user-images.githubusercontent.com/114742949/194296048-2b930786-5b9b-4e42-a83d-9770fbe008e8.png)
+
+this command lets takes the indepenedent lines of development created by git branch and integrate them into a single branch
+
