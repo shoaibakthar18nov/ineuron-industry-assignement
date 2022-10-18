@@ -75,3 +75,9 @@ this command refers to repository i,e welcome-app pushing to dockerhub with user
 ![docker inspect ](https://user-images.githubusercontent.com/114742949/196539590-a41e77a2-f5ee-4e5e-adb8-d0ed7d86943a.png)
 
 this command give the details about running container 
+
+
+pushing to github account i,e shoaibakthar18nov
+
+![docker new riposi shoib](https://user-images.githubusercontent.com/114742949/196543037-979985d7-b983-4acf-8a8c-b4e71834efa2.png
+
